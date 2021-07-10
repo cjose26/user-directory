@@ -35,7 +35,7 @@ To start application, use the command below.
 
 ## App
 
-<a href="https://shrouded-stream-05459.herokuapp.com/">Heroku website</a>
+<a href="https://cryptic-savannah-37401.herokuapp.com/">Heroku website</a>
 
 ## License
 
